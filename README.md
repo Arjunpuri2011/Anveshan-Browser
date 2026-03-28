@@ -147,3 +147,7 @@ without hiding what’s happening underneath.
 Most browsers hide the web.
 Anveshan reveals it.
 — Arjun Puri
+
+## NOTE:
+
+Anveshan is dual-licensed under GPLv2 and MPL 2.0.
