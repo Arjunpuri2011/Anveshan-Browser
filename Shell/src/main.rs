@@ -1,4 +1,5 @@
 // main.rs — Nova Browser Shell
+// ANVESHA BROWSER - (c) 2026 Arjun Puri
  
 mod anim;
 mod tabs;
